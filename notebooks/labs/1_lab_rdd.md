@@ -69,3 +69,27 @@ Take output from question 5
 ```
 
 
+### Question 8
+
+```
+- Create a RDD using a number array
+- Compute the average
+```
+
+
+### Question 9
+
+```
+- Create a RDD using a number array
+- Compute the standard deviation
+```
+
+
+### Question 10
+
+```
+- Create a RDD using a number array (1000 numbers)
+- Create your own sampler, and sample 30%
+     ** do not use Spark default takeSample()
+- Run multiple times and check size of the sample
+```
